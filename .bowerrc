@@ -1,0 +1,6 @@
+{
+  "directory": "assets/bower_components",
+  "color": true,
+  "analytics": false,
+  "json": "assets/bower.json"
+}
